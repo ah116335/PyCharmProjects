@@ -1,0 +1,63 @@
+Using excelfile bicycle.xlsx
+Calculating Linearregression
+Calculating Huberregression
+Calculating Ridgeregression
+Calculating Lassoregression
+*** Calculations complete
+ 
+Numerical values used are
+ Randomstate is 101886
+ Polynomial degree is 10
+ Amount of data points is 151
+ Amount of training points is 105
+ Amount of validation points is 32
+ Amount of test points is 14
+ Validationsize is 0.2 and testsize is 0.1
+ 
+MSE Training_error for Linearregression is 13.426547286856913
+MAE Training_error for Linearregression is 2.9489679446502555
+MSE Validation_error for Linearregression is 14.347682205963405
+MAE Validation error for Linearregression is 3.1079767494154
+MSE Test_error for Linearregression is 16.72278288360678
+MAE Test_error for Linearregression is 2.988619145721064
+###  ###
+MSE Training_error for Huberregression is 222.83504514578553
+MAE Training_error for Huberregression is 11.869783992974375
+MSE Validation_error for Huberregression is 178.06882795770042
+MAE Validation error for Huberregression is 11.201933618756694
+MSE Test_error for Huberregression is 69.74796846000866
+MAE Test_error for Huberregression is 6.523954640577257
+######
+MSE Training_error for Ridgeregression is 13.571401105691125
+MAE Training_error for Ridgeregression is 2.9608614294543694
+MSE Validation_error for Ridgeregression is 13.951976019426663
+MAE Validation error for Ridgeregression is 2.9497434973207817
+MSE Test_error for Ridgeregression is 16.998598702479836
+MAE Test_error for Ridgeregression is 3.0218795609478417
+### :-) ###
+MSE Training_error for Lassoregression is 15.024559134915132
+MAE Training_error for Lassoregression is 3.1196892630008084
+MSE Validation_error for Lassoregression is 15.410894255732979
+MAE Validation error for Lassoregression is 3.2438310853290817
+MSE Test_error for Lassoregression is 18.463410299043066
+MAE Test_error for Lassoregression is 3.353277264515099
+##########################################################
+Calculating scores
+Linearregression score for training dataset is: 0.6678044096606012
+Huberregression score for training dataset is: -4.513317593047383
+Ridgeregression score for training dataset is: 0.6642204800893963
+LAssoregression score for training dataset is: 0.6282668816652468
+##########################################################
+Linearregression score for validation dataset is: 0.6641285101866236
+Huberregression score for validation dataset is: -3.168495069581081
+Ridgeregression score for validation dataset is: 0.6733917782526826
+LAssoregression score for validation dataset is: 0.6392392904494303
+##########################################################
+Linearregression score for test dataset is: 0.5743291629627365
+Huberregression score for test dataset is: -0.7754028335274932
+Ridgeregression score for test dataset is: 0.5673083966641497
+LAssoregression score for test dataset is: 0.5300222832970856
+##########################################################
+END ######################################################
+##########################################################
+

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+c=1
+while [ $c -le 9 ]
+do
+  python Bicycle-laps6.py >> LogBicycleML.log
+  ((c++))
+done

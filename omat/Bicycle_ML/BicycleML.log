@@ -1,0 +1,316 @@
+Using excelfile bicycle.xlsx
+Calculating Linearregression
+Calculating Huberregression
+Calculating Ridgeregression
+Calculating Lassoregression
+Calculating Ransacregression
+Calculating BayesianRidge
+Calculating LARS
+*** Calculations complete
+ 
+Numerical values used are
+ Randomstate 12
+ Amount of data points is 151
+ Amount of training points is 105
+ Amount of validation points is 32
+ Amount of test points is 14
+ Validationsize is 0.2 and testsize is 0.1
+ 
+MSE Training_error for Linearregression is 25.5679041690628
+MAE Training_error for Linearregression is 4.186355549765234
+MSE Validation_error for Linearregression is 17.97739710881117
+MAE Validation error for Linearregression is 3.133991578302931
+MSE Test_error for Linearregression is 20.494155721896863
+MAE Test_error for Linearregression is 3.8538781254459047
+###  ###
+MSE Training_error for Huberregression is 25.91350108804085
+MAE Training_error for Huberregression is 4.155793811186569
+MSE Validation_error for Huberregression is 19.845667912153154
+MAE Validation error for Huberregression is 3.1217339070185437
+MSE Test_error for Huberregression is 19.2118609399497
+MAE Test_error for Huberregression is 3.6434181519940703
+######
+MSE Training_error for Ridgeregression is 25.568001722047182
+MAE Training_error for Ridgeregression is 4.186852319407093
+MSE Validation_error for Ridgeregression is 17.984408427916776
+MAE Validation error for Ridgeregression is 3.137091739997656
+MSE Test_error for Ridgeregression is 20.460667369498815
+MAE Test_error for Ridgeregression is 3.851741699698035
+### :-) ###
+MSE Training_error for Lassoregression is 26.108906635592415
+MAE Training_error for Lassoregression is 4.280411248799481
+MSE Validation_error for Lassoregression is 19.25040426721374
+MAE Validation error for Lassoregression is 3.391311028850522
+MSE Test_error for Lassoregression is 18.695315634066322
+MAE Test_error for Lassoregression is 3.694779236819543
+### :-) ###
+MSE Training_error for RANSACregression is 26.922941919652814
+MAE Training_error for RANSACregression is 4.291678908764433
+MSE Validation_error for RANSACregression is 18.81109818754011
+MAE Validation error for RANSACregression is 3.0723393454371726
+MSE Test_error for RANSACregression is 26.67776569083494
+MAE Test_error for RANSACregression is 4.1974992518231895
+### :-) ###
+MSE Training_error for BayesianRidge is 25.57199976667575
+MAE Training_error for BayesianRidge is 4.189656201429179
+MSE Validation_error for BayesianRidge is 18.027699179145007
+MAE Validation error for BayesianRidge is 3.154078931064498
+MSE Test_error for BayesianRidge is 20.281679640392717
+MAE Test_error for BayesianRidge is 3.840035254695207
+### :-) ###
+MSE Training_error for LassoLARS is 25.5679041690628
+MAE Training_error for LassoLARS is 4.186355549765234
+MSE Validation_error for LassoLARS is 17.97739710881117
+MAE Validation error for LassoLARS is 3.133991578302931
+MSE Test_error for LassoLARS is 20.494155721896863
+MAE Test_error for LassoLARS is 3.8538781254459047
+##########################################################
+Calculating scores
+Linearregression score is: 0.5311040591079308
+Huberregression score is: 0.48237483591327496
+Ridgeregression score is: 0.5309211861898426
+LAssoregression score is: 0.49790081585260143
+RANSACregression score is: 0.5093590284248326
+BayesianRidge score is: 0.5297920540131307
+LassoLARS score is: 0.5311040591079308
+##########################################################
+END ######################################################
+##########################################################
+
+Using excelfile bicycle.xlsx
+Calculating Linearregression
+Calculating Huberregression
+Calculating Ridgeregression
+Calculating Lassoregression
+Calculating Ransacregression
+Calculating BayesianRidge
+Calculating LARS
+*** Calculations complete
+ 
+Numerical values used are
+ Randomstate 12
+ Amount of data points is 151
+ Amount of training points is 105
+ Amount of validation points is 32
+ Amount of test points is 14
+ Validationsize is 0.2 and testsize is 0.1
+ 
+MSE Training_error for Linearregression is 25.5679041690628
+MAE Training_error for Linearregression is 4.186355549765234
+MSE Validation_error for Linearregression is 17.97739710881117
+MAE Validation error for Linearregression is 3.133991578302931
+MSE Test_error for Linearregression is 20.494155721896863
+MAE Test_error for Linearregression is 3.8538781254459047
+###  ###
+MSE Training_error for Huberregression is 25.91350108804085
+MAE Training_error for Huberregression is 4.155793811186569
+MSE Validation_error for Huberregression is 19.845667912153154
+MAE Validation error for Huberregression is 3.1217339070185437
+MSE Test_error for Huberregression is 19.2118609399497
+MAE Test_error for Huberregression is 3.6434181519940703
+######
+MSE Training_error for Ridgeregression is 25.568001722047182
+MAE Training_error for Ridgeregression is 4.186852319407093
+MSE Validation_error for Ridgeregression is 17.984408427916776
+MAE Validation error for Ridgeregression is 3.137091739997656
+MSE Test_error for Ridgeregression is 20.460667369498815
+MAE Test_error for Ridgeregression is 3.851741699698035
+### :-) ###
+MSE Training_error for Lassoregression is 26.108906635592415
+MAE Training_error for Lassoregression is 4.280411248799481
+MSE Validation_error for Lassoregression is 19.25040426721374
+MAE Validation error for Lassoregression is 3.391311028850522
+MSE Test_error for Lassoregression is 18.695315634066322
+MAE Test_error for Lassoregression is 3.694779236819543
+### :-) ###
+MSE Training_error for RANSACregression is 25.819827934239235
+MAE Training_error for RANSACregression is 4.165318012440775
+MSE Validation_error for RANSACregression is 18.767061808745847
+MAE Validation error for RANSACregression is 3.035622210529753
+MSE Test_error for RANSACregression is 21.135120484106896
+MAE Test_error for RANSACregression is 3.8293567320682844
+### :-) ###
+MSE Training_error for BayesianRidge is 25.57199976667575
+MAE Training_error for BayesianRidge is 4.189656201429179
+MSE Validation_error for BayesianRidge is 18.027699179145007
+MAE Validation error for BayesianRidge is 3.154078931064498
+MSE Test_error for BayesianRidge is 20.281679640392717
+MAE Test_error for BayesianRidge is 3.840035254695207
+### :-) ###
+MSE Training_error for LassoLARS is 25.5679041690628
+MAE Training_error for LassoLARS is 4.186355549765234
+MSE Validation_error for LassoLARS is 17.97739710881117
+MAE Validation error for LassoLARS is 3.133991578302931
+MSE Test_error for LassoLARS is 20.494155721896863
+MAE Test_error for LassoLARS is 3.8538781254459047
+##########################################################
+Calculating scores
+Linearregression score is: 0.5311040591079308
+Huberregression score is: 0.48237483591327496
+Ridgeregression score is: 0.5309211861898426
+LAssoregression score is: 0.49790081585260143
+RANSACregression score is: 0.5105076084524771
+BayesianRidge score is: 0.5297920540131307
+LassoLARS score is: 0.5311040591079308
+##########################################################
+END ######################################################
+##########################################################
+
+Using excelfile bicycle.xlsx
+Calculating Linearregression
+Calculating Huberregression
+Calculating Ridgeregression
+Calculating Lassoregression
+Calculating Ransacregression
+Calculating BayesianRidge
+Calculating LARS
+*** Calculations complete
+ 
+Numerical values used are
+ Randomstate 12
+ Amount of data points is 151
+ Amount of training points is 105
+ Amount of validation points is 32
+ Amount of test points is 14
+ Validationsize is 0.2 and testsize is 0.1
+ 
+MSE Training_error for Linearregression is 25.5679041690628
+MAE Training_error for Linearregression is 4.186355549765234
+MSE Validation_error for Linearregression is 17.97739710881117
+MAE Validation error for Linearregression is 3.133991578302931
+MSE Test_error for Linearregression is 20.494155721896863
+MAE Test_error for Linearregression is 3.8538781254459047
+###  ###
+MSE Training_error for Huberregression is 25.91350108804085
+MAE Training_error for Huberregression is 4.155793811186569
+MSE Validation_error for Huberregression is 19.845667912153154
+MAE Validation error for Huberregression is 3.1217339070185437
+MSE Test_error for Huberregression is 19.2118609399497
+MAE Test_error for Huberregression is 3.6434181519940703
+######
+MSE Training_error for Ridgeregression is 25.568001722047182
+MAE Training_error for Ridgeregression is 4.186852319407093
+MSE Validation_error for Ridgeregression is 17.984408427916776
+MAE Validation error for Ridgeregression is 3.137091739997656
+MSE Test_error for Ridgeregression is 20.460667369498815
+MAE Test_error for Ridgeregression is 3.851741699698035
+### :-) ###
+MSE Training_error for Lassoregression is 26.108906635592415
+MAE Training_error for Lassoregression is 4.280411248799481
+MSE Validation_error for Lassoregression is 19.25040426721374
+MAE Validation error for Lassoregression is 3.391311028850522
+MSE Test_error for Lassoregression is 18.695315634066322
+MAE Test_error for Lassoregression is 3.694779236819543
+### :-) ###
+MSE Training_error for RANSACregression is 26.6904382906478
+MAE Training_error for RANSACregression is 4.262712716994304
+MSE Validation_error for RANSACregression is 18.97111597411572
+MAE Validation error for RANSACregression is 3.0555799211996377
+MSE Test_error for RANSACregression is 25.28774922897957
+MAE Test_error for RANSACregression is 4.105274519074127
+### :-) ###
+MSE Training_error for BayesianRidge is 25.57199976667575
+MAE Training_error for BayesianRidge is 4.189656201429179
+MSE Validation_error for BayesianRidge is 18.027699179145007
+MAE Validation error for BayesianRidge is 3.154078931064498
+MSE Test_error for BayesianRidge is 20.281679640392717
+MAE Test_error for BayesianRidge is 3.840035254695207
+### :-) ###
+MSE Training_error for LassoLARS is 25.5679041690628
+MAE Training_error for LassoLARS is 4.186355549765234
+MSE Validation_error for LassoLARS is 17.97739710881117
+MAE Validation error for LassoLARS is 3.133991578302931
+MSE Test_error for LassoLARS is 20.494155721896863
+MAE Test_error for LassoLARS is 3.8538781254459047
+##########################################################
+Calculating scores
+Linearregression score is: 0.5311040591079308
+Huberregression score is: 0.48237483591327496
+Ridgeregression score is: 0.5309211861898426
+LAssoregression score is: 0.49790081585260143
+RANSACregression score is: 0.505185360226834
+BayesianRidge score is: 0.5297920540131307
+LassoLARS score is: 0.5311040591079308
+##########################################################
+END ######################################################
+##########################################################
+
+Using excelfile bicycle.xlsx
+Calculating Linearregression
+Calculating Huberregression
+Calculating Ridgeregression
+Calculating Lassoregression
+Calculating Ransacregression
+Calculating BayesianRidge
+Calculating LARS
+*** Calculations complete
+ 
+Numerical values used are
+ Randomstate 12
+ Amount of data points is 151
+ Amount of training points is 105
+ Amount of validation points is 32
+ Amount of test points is 14
+ Validationsize is 0.2 and testsize is 0.1
+ 
+MSE Training_error for Linearregression is 25.5679041690628
+MAE Training_error for Linearregression is 4.186355549765234
+MSE Validation_error for Linearregression is 17.97739710881117
+MAE Validation error for Linearregression is 3.133991578302931
+MSE Test_error for Linearregression is 20.494155721896863
+MAE Test_error for Linearregression is 3.8538781254459047
+###  ###
+MSE Training_error for Huberregression is 25.91350108804085
+MAE Training_error for Huberregression is 4.155793811186569
+MSE Validation_error for Huberregression is 19.845667912153154
+MAE Validation error for Huberregression is 3.1217339070185437
+MSE Test_error for Huberregression is 19.2118609399497
+MAE Test_error for Huberregression is 3.6434181519940703
+######
+MSE Training_error for Ridgeregression is 25.568001722047182
+MAE Training_error for Ridgeregression is 4.186852319407093
+MSE Validation_error for Ridgeregression is 17.984408427916776
+MAE Validation error for Ridgeregression is 3.137091739997656
+MSE Test_error for Ridgeregression is 20.460667369498815
+MAE Test_error for Ridgeregression is 3.851741699698035
+### :-) ###
+MSE Training_error for Lassoregression is 26.108906635592415
+MAE Training_error for Lassoregression is 4.280411248799481
+MSE Validation_error for Lassoregression is 19.25040426721374
+MAE Validation error for Lassoregression is 3.391311028850522
+MSE Test_error for Lassoregression is 18.695315634066322
+MAE Test_error for Lassoregression is 3.694779236819543
+### :-) ###
+MSE Training_error for RANSACregression is 25.716933379805617
+MAE Training_error for RANSACregression is 4.155623349201148
+MSE Validation_error for RANSACregression is 18.789199076402603
+MAE Validation error for RANSACregression is 3.071142969792245
+MSE Test_error for RANSACregression is 20.417020944940884
+MAE Test_error for RANSACregression is 3.786313485830615
+### :-) ###
+MSE Training_error for BayesianRidge is 25.57199976667575
+MAE Training_error for BayesianRidge is 4.189656201429179
+MSE Validation_error for BayesianRidge is 18.027699179145007
+MAE Validation error for BayesianRidge is 3.154078931064498
+MSE Test_error for BayesianRidge is 20.281679640392717
+MAE Test_error for BayesianRidge is 3.840035254695207
+### :-) ###
+MSE Training_error for LassoLARS is 25.5679041690628
+MAE Training_error for LassoLARS is 4.186355549765234
+MSE Validation_error for LassoLARS is 17.97739710881117
+MAE Validation error for LassoLARS is 3.133991578302931
+MSE Test_error for LassoLARS is 20.494155721896863
+MAE Test_error for LassoLARS is 3.8538781254459047
+##########################################################
+Calculating scores
+Linearregression score is: 0.5311040591079308
+Huberregression score is: 0.48237483591327496
+Ridgeregression score is: 0.5309211861898426
+LAssoregression score is: 0.49790081585260143
+RANSACregression score is: 0.5099302125767635
+BayesianRidge score is: 0.5297920540131307
+LassoLARS score is: 0.5311040591079308
+##########################################################
+END ######################################################
+##########################################################
+

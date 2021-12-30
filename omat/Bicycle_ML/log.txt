@@ -1,0 +1,40 @@
+Using excelfile bicycle.xlsx
+Calculating Linear regression
+Calculating Huberregression
+Calculating Ridgeregression
+Calculations complete
+Using randomstate 177025931
+Amount of data points is 151
+Testsize is 0.25
+Amount of training datapoints is 113
+Amount of validation datapoints is 38
+MSE Training_error for Linearregression is 24.579021664863067
+MAE Training_error Linearregression is 4.089749890748923
+MSE Validation_error Linearregression is 20.362212645392344
+MAE Validation error Linearregression is 3.6389543600980128
+###  ###
+MSE Training_error for Huberregression is 25.14569067713334
+MAE Training_error Huberregression is 4.014269067421709
+MSE Validation_error Huberregression is 19.73524232307478
+MAE Validation error Huberregression is 3.521981098398084
+### :-) ###
+MSE Training_error for Ridgeregression is 24.57904074862605
+MAE Training_error Ridgeregression is 4.090015979102589
+MSE Validation_error Ridgeregression is 20.35969939577107
+MAE Validation error Ridgeregression is 3.639178074455844
+##########################################################
+Calculating scores
+Linearregression score is: 0.4237523751112877
+Huberregression score is: 0.44149554307653144
+Ridgeregression score is: 0.42382349970615535
+##########################################################
+Calculating Predictions
+LR Laptime prediction for temp 20C is [[56.47506891]]
+[[21.1 20.2 21.4 23.2 16.6 22.5 25.5]]
+[[58.  56.8 58.4 61.  51.7 60.  64.2]]
+HU Laptime prediction for temp 20C is [57.27002218]
+[[21.1 20.2 21.4 23.2 16.6 22.5 25.5]]
+[58.9 57.6 59.4 62.1 52.2 61.  65.5]
+RI Laptime prediction for temp 20C is [[56.47355693]]
+[[21.1 20.2 21.4 23.2 16.6 22.5 25.5]]
+[[58.  56.8 58.4 61.  51.7 60.  64.2]]
